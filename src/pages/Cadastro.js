@@ -12,6 +12,7 @@ const Cadastro = ({ navigation }) => {
   const handleSignUp = () => {
     if (password !== confirmPassword) {
       Alert.alert('Erro', 'As senhas não coincidem');
+      Alert.alert('Erro', 'Por favor verificar a senha');
       return;
     }
 
