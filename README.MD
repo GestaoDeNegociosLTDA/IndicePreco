@@ -13,8 +13,8 @@ Tentei diversas formas possiveis, porém sem sucesso, apenas rodou em minha maqu
 https://github.com/lucasdiasbrr/IndicePrecoToledo.git
 
 Video do app Rodando
-https://drive.google.com/file/d/1afVdJn9tpRo_n7P0TkUMiBrelIXU0oGU/view?usp=drive_link
+https://drive.google.com/file/d/1_BoAaOIvHJIEsNawnosxV-JKCNnUeVWB/view?usp=sharing
 
 
-Expo
-https://snack.expo.dev/@lucasdiasbrr/expo-indice-preco
+Expo - Link do Exame
+https://snack.expo.dev/@lucasdiasbrr/indice-preco-exame
