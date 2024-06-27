@@ -1,12 +1,11 @@
-Professora, tive problemas com a plataforma online
-Precisei criar o ambiente em minha maquina e realizar as configurações e testes por aqui
+Novamente, assim como na prova
+precisei criar o ambiente em minha maquina e realizar as configurações do firebase e testes por aqui localmente
+O Firebase por algum motivo não está funcionando com o Snack Expo Dev, instalei o Expo em minha maquina.
 
-Unable to resolve module '@firebase/auth.js'
-  Evaluating @firebase/auth.js
-  Evaluating firebase/auth.js
-  Evaluating src/pages/Login.js
-  Evaluating App.js
-  Loading App.js
+
+package.json (3:5)
+Failed to resolve dependency 'firebase@10.12.2' (Can't resolve '' in '/tmp/snackager/snackager/buildStatus/1/firebase@10.12.2-ios,android,web/package')
+
 
 Tentei diversas formas possiveis, porém sem sucesso, apenas rodou em minha maquina
 
