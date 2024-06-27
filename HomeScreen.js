@@ -205,7 +205,7 @@ const styles = StyleSheet.create({
   logo: {
     width: '80%',
     height: undefined,
-    aspectRatio: 1, // Keeps the aspect ratio
+    aspectRatio: 1,
     alignSelf: 'center',
     marginBottom: 20,
   },
